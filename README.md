@@ -16,7 +16,7 @@ A simple C++ console program that allows the user to **select a language from a 
 3. Compile the program:  
    `g++ main.cpp -o HelloWorldLanguage`
 4. Run it:  
-   `./HelloWorldLanguager`
+   `./HelloWorldLanguage`
 
 ## 🧩 Code Overview
 - **Language Functions** → Each function prints “Hello, World!” in a different language  
