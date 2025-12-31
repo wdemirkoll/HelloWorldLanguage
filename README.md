@@ -29,6 +29,5 @@ A simple C++ console program that allows the user to **select a language from a 
 **wdemirkoll**  
 [@wdemirkoll](https://github.com/wdemirkoll)  
 Created: December 2025  
-The project was written in C++14 
 
 ⭐ If you like this project, consider giving it a star!
